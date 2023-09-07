@@ -17,7 +17,7 @@ I'm Tal, a full-stack web developer
 ✉️ contact at [tal6203@gmail.com](mailto:tal6203@gmail.com)
 *   ### Skills
 <h1 align="center">Hi 👋, I'm Tal</h1>
-<h3 align="center">A full-stack web developer</h3>
+<h3 align="center">A Fullstack Web Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
