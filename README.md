@@ -1,7 +1,7 @@
 Welcome Aboard
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px"/>
 ===========================================================================================================================
-I'm Tal, a full-stack web developer
+I'm Tal, a Fullstack Web Developer
 -------------
 <img align="right" alt="Coding"  width="500" src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif">
 
