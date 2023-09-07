@@ -9,7 +9,7 @@ I'm Tal, a full-stack web developer
 📅 Graduated from Ecom college <br>
 📱 Experienced in developing complex web apps <br>
 💻 Proficient in HTML, CSS, JavaScript, and React.js <br>
-💼 Currently working on a react-hook base project <br>
+💼 Currently working on a react base project <br>
 🎨 Enjoys creating intuitive and user-friendly apps <br>
 🌱 Passionate about learning new technologies <br>
 🔧 Skilled in using Git version control <br>
