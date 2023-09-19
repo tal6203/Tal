@@ -8,7 +8,7 @@ I'm Tal, a Fullstack Web Developer
 🌍 I'm based in Israel, Holon <br>
 📅 Graduated from Ecom college <br>
 📱 Experienced in developing complex web apps <br>
-💻 Proficient in HTML, CSS, JavaScript, and React.js <br>
+💻 Proficient in HTML, CSS, JavaScript,Java, and React.js <br>
 💼 Currently working on a React base project <br>
 🎨 Enjoys creating intuitive and user-friendly apps <br>
 🌱 Passionate about learning new technologies <br>
