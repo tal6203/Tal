@@ -3,7 +3,7 @@ Welcome Aboard
 ===========================================================================================================================
 I'm Tal, a Fullstack Web Developer
 -------------
-<img align="right" alt="Coding"  width="400" src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif">
+<img align="right" alt="Coding"  width="450" src="https://i.pinimg.com/originals/2f/f4/28/2ff428006f3ade5f10beac69372062ab.gif">
 
 🌍 I'm based in Israel, Holon <br>
 📅 Graduated from Ecom college <br>
