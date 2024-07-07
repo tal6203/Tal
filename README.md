@@ -15,7 +15,7 @@ I'm Tal, a Fullstack Web Developer
 🔧 Skilled in using Git version control <br>
 🏅 Fluent in Hebrew and English <br>
 ✉️ contact at [tal6203@gmail.com](mailto:tal6203@gmail.com)
-*   ### Skills
+
 <h1 align="center">Hi 👋, I'm Tal</h1>
 <h3 align="center">A Fullstack Web Developer</h3>
 
